@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\forms\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\forms\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\desafio group\\util\\bancodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\util\\bancodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\util\\recuperacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\util\\recuperacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\entities\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\entities\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\util\\validacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\util\\validacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\util\\addressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\util\\addressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\forms\\frmadicionarcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\forms\\frmadicionarcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\forms\\frmupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\forms\\frmupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\forms\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\forms\\frmdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\forms\\frmupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\forms\\frmupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\forms\\frmupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\forms\\frmupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\forms\\frmadicionarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\forms\\frmadicionarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\forms\\frmrecuperarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\forms\\frmrecuperarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|c:\\users\\rafael.cardoso\\source\\repos\\desafio-group\\desafio group\\forms\\frmadicionarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CB5DEA-750A-454E-9677-96C96F7D69A6}|Desafio Group\\DesafioGroup.csproj|solutionrelative:desafio group\\forms\\frmadicionarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDados.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmDados.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Forms\\frmDados.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmDados.cs",
+              "RelativeToolTip": "Desafio Group\\Forms\\frmDados.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:25:04.623Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Validacoes.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Util\\Validacoes.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Util\\Validacoes.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Util\\Validacoes.cs",
+              "RelativeToolTip": "Desafio Group\\Util\\Validacoes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:09:11.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recuperacao.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Util\\Recuperacao.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Util\\Recuperacao.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Util\\Recuperacao.cs",
+              "RelativeToolTip": "Desafio Group\\Util\\Recuperacao.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:09:07.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressInfo.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Util\\AddressInfo.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Util\\AddressInfo.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Util\\AddressInfo.cs",
+              "RelativeToolTip": "Desafio Group\\Util\\AddressInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:09:06.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Desafio Group\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:50:33.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BancoDados.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Util\\BancoDados.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Util\\BancoDados.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Util\\BancoDados.cs",
+              "RelativeToolTip": "Desafio Group\\Util\\BancoDados.cs",
+              "ViewState": "AQIAAFYBAAAAAAAAAAAtwJIBAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:14:18.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmAdicionarCliente.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmAdicionarCliente.Designer.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Forms\\frmAdicionarCliente.Designer.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmAdicionarCliente.Designer.cs",
+              "RelativeToolTip": "Desafio Group\\Forms\\frmAdicionarCliente.Designer.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAAAL8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:50:39.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Desafio Group\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAB8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:50:29.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Entities\\Endereco.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Entities\\Endereco.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Entities\\Endereco.cs",
+              "RelativeToolTip": "Desafio Group\\Entities\\Endereco.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T16:47:05.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmUpdate.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Forms\\frmUpdate.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmUpdate.cs",
+              "RelativeToolTip": "Desafio Group\\Forms\\frmUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:04:38.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmAdicionarCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmAdicionarCliente.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Forms\\frmAdicionarCliente.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmAdicionarCliente.cs [Design]",
+              "RelativeToolTip": "Desafio Group\\Forms\\frmAdicionarCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:25:41.968Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDados.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmDados.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Forms\\frmDados.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmDados.cs [Design]",
+              "RelativeToolTip": "Desafio Group\\Forms\\frmDados.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:30:00.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmUpdate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmUpdate.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Forms\\frmUpdate.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmUpdate.cs [Design]",
+              "RelativeToolTip": "Desafio Group\\Forms\\frmUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:36:14.818Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmUpdate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmUpdate.Designer.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Forms\\frmUpdate.Designer.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmUpdate.Designer.cs",
+              "RelativeToolTip": "Desafio Group\\Forms\\frmUpdate.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:36:24.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmRecuperarSenha.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmRecuperarSenha.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Forms\\frmRecuperarSenha.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmRecuperarSenha.cs",
+              "RelativeToolTip": "Desafio Group\\Forms\\frmRecuperarSenha.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:04:44.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmAdicionarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmAdicionarCliente.cs",
+              "RelativeDocumentMoniker": "Desafio Group\\Forms\\frmAdicionarCliente.cs",
+              "ToolTip": "C:\\Users\\rafael.cardoso\\source\\repos\\Desafio-Group\\Desafio Group\\Forms\\frmAdicionarCliente.cs",
+              "RelativeToolTip": "Desafio Group\\Forms\\frmAdicionarCliente.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAASwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:25:30.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
