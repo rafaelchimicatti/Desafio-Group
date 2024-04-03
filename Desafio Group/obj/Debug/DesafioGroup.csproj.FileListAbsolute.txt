@@ -1,0 +1,37 @@
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\bin\Debug\Desafio Group.exe.config
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\bin\Debug\Desafio Group.exe
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\bin\Debug\Desafio Group.pdb
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\obj\Debug\DesafioGroup.csproj.AssemblyReference.cache
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\obj\Debug\Desafio_Group.frmLogin.resources
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\obj\Debug\Desafio_Group.Forms.frmDados.resources
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\obj\Debug\Desafio_Group.Forms.frmCadastro.resources
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\obj\Debug\Desafio_Group.Forms.frmAdicionarCliente.resources
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\obj\Debug\Desafio_Group.Forms.frmNovaSenha.resources
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\obj\Debug\Desafio_Group.Forms.frmRecuperarSenha.resources
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\obj\Debug\Desafio_Group.Properties.Resources.resources
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\obj\Debug\DesafioGroup.csproj.GenerateResource.cache
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\obj\Debug\DesafioGroup.csproj.CoreCompileInputs.cache
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\obj\Debug\DesafioG.19E5A46B.Up2Date
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\obj\Debug\Desafio Group.exe
+C:\Users\rafael.cardoso\source\repos\Desafio Group\Desafio Group\obj\Debug\Desafio Group.pdb
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\bin\Debug\Desafio Group.exe.config
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\bin\Debug\Desafio Group.exe
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\obj\Debug\DesafioGroup.csproj.AssemblyReference.cache
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\obj\Debug\Desafio_Group.frmLogin.resources
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\obj\Debug\Desafio_Group.Forms.frmDados.resources
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\obj\Debug\Desafio_Group.Forms.frmCadastro.resources
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\obj\Debug\Desafio_Group.Forms.frmAdicionarCliente.resources
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\obj\Debug\Desafio_Group.Forms.frmNovaSenha.resources
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\obj\Debug\Desafio_Group.Forms.frmRecuperarSenha.resources
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\obj\Debug\Desafio_Group.Properties.Resources.resources
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\obj\Debug\DesafioGroup.csproj.GenerateResource.cache
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\obj\Debug\DesafioGroup.csproj.CoreCompileInputs.cache
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\obj\Debug\DesafioG.19E5A46B.Up2Date
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\obj\Debug\Desafio Group.exe
+C:\Users\rafael.cardoso\Source\Repos\Desafio-Group\Desafio Group\obj\Debug\Desafio Group.pdb
+C:\Users\rafael.cardoso\source\repos\Desafio-Group\Desafio Group\bin\Debug\Desafio Group.pdb
+C:\Users\rafael.cardoso\source\repos\Desafio-Group\Desafio Group\obj\Debug\Desafio_Group.Forms.frmUpdate.resources
